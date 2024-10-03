@@ -5,7 +5,7 @@ This project is an enhanced version of the original RVC, designed to achieve imp
 
 (The sample uses the same RVC model.)
 
-Currently, the generation process is complex, but we are working on a WebUI version, which will be updated in the future.
+Currently, the training and generation process is complex, but we are working on a WebUI version, which will be updated in the future.
 
 original Video
 https://www.youtube.com/watch?v=ROIvbbg8jMQ
