@@ -6,6 +6,6 @@ original Video
 https://www.youtube.com/watch?v=ROIvbbg8jMQ
 
 Only using RVC model
-![Only using RVC model](./sample/onlyrvc.mp4)
+![Only using RVC model]([./sample/onlyrvc.mp4](https://github.com/Songssh/RVC-restyle-vocal/blob/main/sample/onlyrvc.mp4))
 
 restyle RVC model
