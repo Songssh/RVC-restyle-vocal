@@ -6,6 +6,6 @@ original Video
 https://www.youtube.com/watch?v=ROIvbbg8jMQ
 
 Only using RVC model
-
+![Only using RVC model](./sample/onlyrvc.mp4)
 
 restyle RVC model
