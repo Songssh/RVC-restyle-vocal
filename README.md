@@ -9,3 +9,4 @@ Only using RVC model
 ![here](https://github.com/Songssh/RVC-restyle-vocal/raw/main/sample/onlyrvc.mp4)
 
 restyle RVC model
+![here](https://github.com/Songssh/RVC-restyle-vocal/raw/main/sample/restyle.mp4)
