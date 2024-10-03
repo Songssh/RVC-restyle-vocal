@@ -5,7 +5,7 @@ Train target vocal's style and get better result.
 original Video
 https://www.youtube.com/watch?v=ROIvbbg8jMQ
 
-Only using RVC model
+Using only RVC model
 ![here](https://github.com/Songssh/RVC-restyle-vocal/raw/main/sample/onlyrvc.mp4)
 
 restyle RVC model
